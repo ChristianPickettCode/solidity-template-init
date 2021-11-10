@@ -2,5 +2,7 @@
 /* tslint:disable */
 /* eslint-disable */
 export type { Greeter } from "./Greeter";
+export type { Ticket } from "./Ticket";
 
 export { Greeter__factory } from "./factories/Greeter__factory";
+export { Ticket__factory } from "./factories/Ticket__factory";
